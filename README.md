@@ -17,7 +17,7 @@ The dataset satisfies the assignment requirement of at least 500 instances and a
 ## c. GitHub Repository Link
 Add your final repository URL here before submission:
 
-`https://github.com/<your-user-name>/BITS-ML-Assignment-2`
+`https://github.com/2025ac05102/ML-Assignment-2`
 
 ## d. Models used
 The five classifier types explicitly listed in the assignment are implemented in separate Python files inside `model/`:
